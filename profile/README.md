@@ -1,6 +1,6 @@
 # Motion Graphics Skills for Claude Code
 
-> **46 open-source skills for making motion graphics, animation, and video** — organized into 10 focused, installable packs. Works with Claude Code and 40+ agents.
+> **44 open-source skills for making motion graphics, animation, and video** — organized into 10 focused, installable packs. Works with Claude Code and 40+ agents.
 
 Each pack is its own repo aimed at one audience: short-form creators, marketers, data storytellers, web developers, motion designers, and more. Install only the pack you need.
 
@@ -17,7 +17,7 @@ Each pack is its own repo aimed at one audience: short-form creators, marketers,
 | **[web-animation-skills](https://github.com/iart-ai/web-animation-skills)** | Frontend developers | 8 |
 | **[motion-design-skills](https://github.com/iart-ai/motion-design-skills)** | Motion designers | 10 |
 | **[motion-business-skills](https://github.com/iart-ai/motion-business-skills)** | Freelancers & studios | 5 |
-| **[3d-motion-skills](https://github.com/iart-ai/3d-motion-skills)** | Advanced / 3D / technical | 5 |
+| **[3d-motion-skills](https://github.com/iart-ai/3d-motion-skills)** | Advanced / 3D / technical | 3 |
 
 ## Install
 
